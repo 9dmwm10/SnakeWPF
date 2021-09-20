@@ -31,9 +31,6 @@ namespace SnakeGame
             GameMode = GameModes.ExploreImageMode;
             IsImmortal = false;
             GameSpeed = 100;
-            Point a = new Point(2, 2);
-            Point b = a;
-            MessageBox.Show(b.X + " " + b.Y);
         }
 
         private void PlayButton_Click(object sender, RoutedEventArgs e)
