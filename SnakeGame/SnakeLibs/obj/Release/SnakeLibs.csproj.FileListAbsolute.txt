@@ -1,0 +1,6 @@
+C:\Users\cymba\source\repos\SnakeSENSESoftware\SnakeLibs\bin\Release\SnakeLibs.dll
+C:\Users\cymba\source\repos\SnakeSENSESoftware\SnakeLibs\bin\Release\SnakeLibs.pdb
+C:\Users\cymba\source\repos\SnakeSENSESoftware\SnakeLibs\obj\Release\SnakeLibs.csprojAssemblyReference.cache
+C:\Users\cymba\source\repos\SnakeSENSESoftware\SnakeLibs\obj\Release\SnakeLibs.csproj.CoreCompileInputs.cache
+C:\Users\cymba\source\repos\SnakeSENSESoftware\SnakeLibs\obj\Release\SnakeLibs.dll
+C:\Users\cymba\source\repos\SnakeSENSESoftware\SnakeLibs\obj\Release\SnakeLibs.pdb
